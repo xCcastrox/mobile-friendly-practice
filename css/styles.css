@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+header {
+    background-color: aqua;
+    position: fixed;
+}
+h1 {
+    position: center;
+    background-color: aquamarine;
+}
+
+column-1 {
+    float: left; 
+    background-color: aqua;
+}
+column-2{
+    width: 80%;
+}
+
